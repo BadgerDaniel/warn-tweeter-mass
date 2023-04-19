@@ -1,0 +1,14 @@
+API_Key=
+PASTE_API_KEY_HERE
+
+API_Key_Secret=
+PASTE_API_KEY_SECRET_HERE
+
+bearer_token=
+PASTE_BEARER_TOKEN_HERE
+
+access_token=
+PASTE_ACCESS_TOKEN_HERE
+
+access_token_secret=
+PASTE_TOKEN_SECRET_HERE
